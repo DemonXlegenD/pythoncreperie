@@ -1,0 +1,56 @@
+Listes des cr�pes par saveur:
+
+============================================================================
+
+                            1. Cr�pe Nutella
+                            Saveur : Sucr�e
+                            Prix : 6.9�~~~~
+                            Ingr�dient : 1. Nutella |
+
+============================================================================
+
+                            2. Cr�pe Kebab Poulet
+                            Saveur : Sal�e
+                            Prix : 8.9�
+                            Ingr�dients : 1. Kebab | 2. Poulet | 
+
+============================================================================
+
+                            3. Cr�pe Fraise Chantilly
+                            Saveur : Sucr�e
+                            Prix : 7.9�~~~~
+                            Ingr�dients : 1. Fraise | 2. Chantilly |
+
+============================================================================
+
+                            4. Cr�pe Jambon Emmental
+                            Saveur : Sal�e
+                            Prix : 7.9�
+                            Ingr�dients : 1. Jambon | 2. Poulet | 
+
+============================================================================
+
+                            5. Cr�pe Emmental
+                            Saveur : V�g�tarienne
+                            Prix : 6.9�*
+                            Ingr�dient : 1. Mozzarela | 
+          
+============================================================================
+
+                            6. Cr�pe Perso
+                            Saveur : Au choix
+                            Prix : 10�
+                            Ingr�dients : 3 ingr�dients au choix
+
+============================================================================
+
+Nouvelle cr�pe perso:
+
+============================================================================
+
+                           Saveur : Au choix                      
+                           Prix : 10�                                  
+                           Ingr�dients : Sucre | Chantilly | Nutella | 
+          
+============================================================================
+
