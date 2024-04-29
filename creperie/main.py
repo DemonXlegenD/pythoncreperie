@@ -139,11 +139,12 @@ def affiche_crepe(liste):
 
     for i, element in enumerate(liste):
         print("                                     ", f"{i+1}. {element.nom}.\n-----------Prix : {element.prix} €-----------" )
-        print("                             ", f"-----------Ingrédients : {element.ingredient}-----------\n" 
+        print(("                             ", f"-----------Ingrédients : {element.ingredient}-----------\n") 
                 if type(element.ingredient) == str 
-                else ("                             ",f"-----------Ingrédients : {show_ingredients(element.ingredient)}-----------\n" 
+                else (("                             ",f"-----------Ingrédients : {show_ingredients(element.ingredient)}-----------\n") 
                     if taille(element.ingredient)>1 
-                    else ("                             ",f"-----------Ingrédient : {show_ingredients(element.ingredient)}-----------\n")  + f"-----------Saveur : {element.saveur}-----------\n"))
+                    else (("                             ",f"-----------Ingrédient : {show_ingredients(element.ingredient)}-----------\n"),)  + (f"-----------Saveur : {element.saveur}-----------\n",)))
+
 
 
 #---------------------------------------------------------------------------------------------------------------------------------------------------------------#
